@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> 
+
+    
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+
+
+    <nav>
+
+        <div class="mother_nav">
+            <div class="name"><h2>Xavier</h2></div>
+            <div class="tag">
+
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">Blog</a></li>
+                </ul>
+            </div>
+            <div class="profile">
+                <div class="person"><i class="material-icons">person</i></div>
+                <div class="blog"><i class="material-icons">rss_feed</i></div>
+                <div class="sign_up"><a href="#">sign up</a></div>
+
+
+            </div>
+    
+            <div class="menu"><i class="material-icons">menu</i></div>
+        </div>
+        
+
+    </nav>
+
+
+<div class="background">
+    <div class="mother_background">
+        <div class="text_background">
+            <h2>Discover the <br>World's Hidden<br>Wonders
+            </h2>
+             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> 
+                Beatae, quaerat dolorum praesentium facilis laudantium pariatur impedit?</p>
+
+                 <button><a href="#">Read more</a></button>
+
+            
+
+        </div>
+        <div class="box_background">
+            <div class="box_larger"></div>
+            <div class="minor_box">
+                <div class="box1"></div>
+                <div class="box2"></div>
+            </div>
+        </div>
+        </div>
+
+        
+</div>
+
+
+</div>
+
+
+
+
+
+<div class="hero_section">
+    <div class="hero_mother">
+        <div class="des"><h2>Top Destination</h2></div>
+
+        <div class="tabs">
+            <div class="sub_tabs">Popular</div>
+            <div class="sub_tabs">USA</div>
+            <div class="sub_tabs">Europe</div>
+            <div class="sub_tabs">Asia</div>
+            <div class="sub_tabs">Afria</div>
+            <div class="sub_tabs">Atlantic</div>
+            <div class="sub_tabs">Canada</div>
+            <div class="sub_tabs">More</div>
+        </div>
+
+        <div class="hero_box">
+            <div class="mother_box">
+
+                <div class="hero_box_mini"></div>
+                <div class="hero_box_mini"></div>
+                <div class="hero_box_mini"></div>
+                <div class="hero_box_mini"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="latest">
+    <div class="mother_latest">
+        <div class="recom">
+            <h2>Latest Stories</h2>
+            <button>Recommendation</button>
+        </div>
+        <div class="div_latest">
+            <div class="comp_latest">
+                <div class="image_block"></div>
+                <div class="text_block">
+                    <article>
+                        Los Angelos Food and Drink Guide: 10 things to try in Los Angelos California
+                    </article>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi repellendus impedit assumenda perspiciatis.</p>
+                </div>
+            </div>
+
+
+            <div class="latest_recent">
+                <div class="div_box">
+                    <div class="box_create"></div>
+                    <div class="box_text">
+                        <h4>South London Marinate You"ll <br>
+                        Love: Best Market in South London
+                    </h4>
+                    <p>
+                        2nd November 2026
+                    </p>
+                    </div>
+                </div>
+                            <div class="div_box">
+                    <div class="box_create"></div>
+                    <div class="box_text">
+                        <h4>South London Marinate You"ll <br>
+                        Love: Best Market in South London
+                    </h4>
+                    <p>
+                        2nd November 2026
+                    </p>
+                    </div>
+                </div>
+
+              <div class="div_box">
+                    <div class="box_create"></div>
+                    <div class="box_text">
+                        <h4>South London Marinate You"ll <br>
+                        Love: Best Market in South London
+                    </h4>
+                    <p>
+                        2nd November 2026
+                    </p>
+                    </div>
+                </div>    
+
+
+            </div>
+            
+
+        </div>
+    </div>
+</div>
+
+<div class="trekker_text">
+    <div class="mother_text">
+    <h2>Trekker's Highlight</h2>
+    </div>
+</div>
+
+<div class="trekker">
+    <div class="mother_trekker">
+       <div class="text_trek">
+        <div class="text_profile">
+            <div class="image_trekker"></div>
+            <div class="profile_text">
+                <h3>William Simon</h3>
+                <p>Moderator</p>
+            </div>
+        
+        </div>
+
+        <div class="profile_article">
+            <article>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint iusto explicabo quod quam dicta tempore alias, minus exercitationem quisquam sed enim tenetur est eius sit maiores officia, excepturi ut obcaecati.
+            </article>
+        </div>
+       </div>
+       <div class="video_trek">
+        <div class="bigger_trekker"></div>
+        <div class="smaller_trekker"></div>
+
+
+        
+       </div>
+    </div>
+</div>
+
+<div class="banner">
+    <div class="mother_banner">
+        <div class="inspiration">Get Your Travel Inspiration <br> Straight to Your Inbox</div>
+        <form action="" id="form">
+            <input type="email" name="" id="" placeholder="Subscribe to our vlog website">
+            <button type="submit">Subscribe</button>
+        </form>
+
+    </div>
+</div>
+
+<footer></footer>
+    
+
+    
+    
+</body>
+</html>
